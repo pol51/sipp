@@ -23,13 +23,13 @@
 
 #include "stat.hpp"
 #include "sipp.hpp"
+#include "screen.hpp"
 
 #include <curses.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <signal.h>
-#include <screen.hpp>
 #include <errno.h>
 #include <sys/time.h>
 #include <sys/resource.h>
